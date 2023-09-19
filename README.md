@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 😺
+
+My name is Chen Li (李琛), and I'm interested in Physics, Programming, and Films. I'm conducting research on neutrinos, the ghost particles originating from ultra-high-energy cosmic sources. More specifically, I am working on developing Machine Learning models that reconstruct neutrino events for further analysis.
+
+Please don't hesitate to contact me: [ChenLi2049@outlook.com](mailto:ChenLi2049@outlook.com)
 
 <!--
 **ChenLi2049/ChenLi2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
