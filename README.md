@@ -1,6 +1,6 @@
 ### Hi there 😺
 
-My name is Chen Li (李琛). I'm conducting research on neutrinos, the ghost particles originating from ultra-high-energy cosmic sources. More specifically, I am working on developing Machine Learning models that reconstruct neutrino events for further analysis.
+My name is Chen Li (李琛). I'm conducting research on neutrinos, the ghost particles originating from ultra-high-energy cosmic sources. More specifically, I am working on developing Machine Learning models that reconstruct neutrino events for further analysis. My hobby is watching films, the avatar image is from _Play Time_, a silent film in the 1960s; and the number in my id is from _Blade Runner 2049_, a sequel lives up to its potential.
 
 Please don't hesitate to contact me: [ChenLi2049@outlook.com](mailto:ChenLi2049@outlook.com)
 
